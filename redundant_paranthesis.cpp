@@ -13,6 +13,11 @@ abc(c)) → INVALID
 
 Tags - Amazon
 
+Question - https://www.careercup.com/question?id=5743979809734656
+
+Solution - Time Complexity O(n)
+           Space Complexity O(n) ( Can be reduced further )
+
 */
 
 #include<bits/stdc++.h>
